@@ -16,8 +16,8 @@
 #### Atividade:
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanrabello&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanrabello&layout=compact&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanrabello&show_icons=true&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanrabello&layout=compact&theme=dark"/>
 </div>
 
 ##
