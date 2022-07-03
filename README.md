@@ -1,6 +1,6 @@
 ### Bem-vindo(a) 💖
 
-##### Sou programador e atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na FATEC MC.
+##### Sou programador e atualmente estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas na FATEC MC.
 
 ##
 
