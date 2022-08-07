@@ -1,8 +1,6 @@
 ### Bem-vindo(a) 💖
 
-##### Sou programador e atualmente estou cursando o 6º semestre de Análise e Desenvolvimento de Sistemas na FATEC MC.
-
-##
+<br/>
 
 #### Redes sociais:
 
@@ -11,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook.com/jean.paes.735/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xMRr59KuMp)
 
-##
+<br/>
 
 #### Atividade:
 
@@ -20,7 +18,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanrabello&layout=compact&theme=dark"/>
 </div>
 
-##
+<br/>
 
 #### Contato:
 
