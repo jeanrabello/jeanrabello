@@ -1,7 +1,5 @@
 ### Bem-vindo(a) 💖
-
-<br/>
-
+#
 #### Redes sociais:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanrabello/)
@@ -9,8 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook.com/jean.paes.735/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xMRr59KuMp)
 
-<br/>
-
+#
 #### Atividade:
 
 <div>
@@ -18,7 +15,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanrabello&layout=compact&theme=dark"/>
 </div>
 
-<br/>
+#
 
 #### Contato:
 
